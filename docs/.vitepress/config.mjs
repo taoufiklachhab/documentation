@@ -5,7 +5,7 @@ export default defineConfig({
   title: "le-cours",
   description: "c est mon cours",
   
-  base: '/documentation/',   // ← Ajoute cette ligne avec le nom exact de ton dépôt GitHub
+  base: '/docs/',   // ← Ajoute cette ligne avec le nom exact de ton dépôt GitHub
 
   themeConfig: {
     nav: [
